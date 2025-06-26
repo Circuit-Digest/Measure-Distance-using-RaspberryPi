@@ -8,7 +8,7 @@
 
 A **Non-Contact Distance Measurement System** using Raspberry Pi and HC-SR04 ultrasonic sensor for accurate distance sensing up to 4 meters. Perfect for robotics, automation, and IoT projects requiring precise distance detection.
 
-![Raspberry Pi Ultrasonic Distance Sensor](https://circuitdigest.com/sites/default/files/projectimage_mic/Raspberry-Pi-Ultrasonic-Distance-Measurement.jpg)
+![Raspberry Pi Ultrasonic Distance Sensor](https://circuitdigest.com/sites/default/files/projectimage_mic/measuring-distance-using-ultrasonic-sensor-HCSR04-and-Raspberry-Pi.jpg)
 
 🚀 Features
 -----------
